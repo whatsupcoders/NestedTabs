@@ -28,7 +28,7 @@ TabController _tabController;
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
-      length: 6,
+      length:6,
       child: Scaffold(
         appBar: AppBar(
           bottom: TabBar(
@@ -93,7 +93,23 @@ TabController _tabController;
            controller: _tabController,
             children: <Widget>[
               HomeForYouTabs(),
-              //HomeTopChartsTabs(),
+              HomeTopChartsTabs(),
+           Container(
+              height: 200.0,
+              child: Center(child: Text('Category')),
+            ),
+              Container(
+              height: 200.0,
+              child: Center(child: Text('Family')),
+            ),
+            Container(
+              height: 200.0,
+              child: Center(child: Text('Early Access')),
+            ),
+            Container(
+              height: 200.0,
+              child: Center(child: Text('Editor Choice')),
+            ),
             ],
          ),
       ),

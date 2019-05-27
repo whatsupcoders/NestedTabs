@@ -116,6 +116,30 @@ class _GamesTopTabsState extends State<GamesTopTabs> with SingleTickerProviderSt
               ],
             ),
               GameTopChartsTabs(0xff3f51b5),
+               Container(
+              height: 200.0,
+              child: Center(child: Text('New')),
+            ),
+             Container(
+              height: 200.0,
+              child: Center(child: Text('Premium')),
+            ),
+             Container(
+              height: 200.0,
+              child: Center(child: Text('Category')),
+            ),
+             Container(
+              height: 200.0,
+              child: Center(child: Text('Events')),
+            ),
+             Container(
+              height: 200.0,
+              child: Center(child: Text('Editor Choice')),
+            ),
+             Container(
+              height: 200.0,
+              child: Center(child: Text('Family')),
+            ),
             ],
           ),
       ),

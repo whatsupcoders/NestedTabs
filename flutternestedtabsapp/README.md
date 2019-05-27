@@ -1,16 +1,16 @@
 # flutternestedtabsapp
 
+A new Flutter project.
 
-Flutter Tutorials - Flutter NestedTabs
+## Getting Started
 
-In this video, you will see how to add nested tabs in your flutter application, I have added 3 tab layers in the demo video.
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-For more details about carousel_slider Plugin check this link - https://pub.dartlang.org/packages/car...
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-The version of the  carousel_slider plugin that I have used is 1.3.0
-
-<img src="https://user-images.githubusercontent.com/3199282/55268106-f739c680-5254-11e9-956b-27757acdc397.png" width=350px height=600px />
-<img src="https://user-images.githubusercontent.com/3199282/55268107-f7d25d00-5254-11e9-8fbd-91da450926de.png" width=350px height=600px />
-<img src="https://user-images.githubusercontent.com/3199282/55268108-f7d25d00-5254-11e9-8d9e-0fe85f152f90.png" width=350px height=600px />
-
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.io/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.

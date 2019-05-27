@@ -129,7 +129,23 @@ class _MoviesTopTabsState extends State<MoviesTopTabs>
               height: 200.0,
               child: Center(child: Text('TV')),
             ),
+             Container(
+              height: 200.0,
+              child: Center(child: Text('Top Sellings')),
+            ),
             MovieReleaseTabs(),
+             Container(
+              height: 200.0,
+              child: Center(child: Text('Genres')),
+            ),
+            Container(
+              height: 200.0,
+              child: Center(child: Text('Studio')),
+            ),
+            Container(
+              height: 200.0,
+              child: Center(child: Text('Family')),
+            ),
           ],
         ),
       ),
